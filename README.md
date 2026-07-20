@@ -1,134 +1,74 @@
 <div align="center">
 
-# 👋 Hi, I'm Kamrunnisa Madarakhandi
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:2563eb&height=240&section=header&text=Kamrunnisa%20Madarakhandi&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20|%20Computer%20Science%20Graduate&descAlignY=58"/>
 
-### 💻 Java Full Stack Developer | Computer Science Student | Open Source Learner
+# 👋 Hello, I'm Kamrunnisa Madarakhandi
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+%7C+REST+API;Building+Real+World+Projects;Always+Learning+New+Technologies" />
+### 💻 Java Full Stack Developer
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&color=3B82F6&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;React+Developer;Building+Real+World+Projects;Always+Learning+New+Things"/>
 
 <p>
-<img src="https://komarev.com/ghpvc/?username=kamrunnisa&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/kamrunnisa?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/github/stars/kamrunnisa?style=for-the-badge&logo=github"/>
-</p>
-
-</div>
-
----
-
-# 👩‍💻 About Me
-
-🎓 Final Year Computer Science Student
-
-💻 Passionate Java Full Stack Developer
-
-🚀 Building scalable Java Web Applications
-
-🌱 Currently Learning
-
-- Spring Boot
-- React
-- REST APIs
-- Microservices
-
----
-
-# 🛠 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,mysql,git,github,maven,vscode,postman"/>
-
-</p>
-
----
-
-# 🚀 Featured Projects
-
-| Project | Description |
-|----------|-------------|
-| 🛍 StyleMart | Java Servlet + JSP E-Commerce Website |
-| 🎓 LearnSphere | AI Educational Management System |
-| 💼 Job Portal | Online Recruitment Portal |
-| 🤖 AI Dashboard | AI Powered CRM Dashboard |
-| 📚 Student Management | Java CRUD Application |
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kamrunnisa&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamrunnisa&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=kamrunnisa&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kamrunnisa&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=kamrunnisa&theme=tokyonight&no-frame=true&margin-w=10"/>
-
-</p>
-
----
-
-# 🐍 Snake Contribution
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/kamrunnisa/kamrunnisa/output/github-contribution-grid-snake.svg"/>
-
-</p>
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
 
 <a href="https://github.com/kamrunnisa">
-<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://linkedin.com">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<a href="https://linkedin.com/in/kamrunnisa-madrakhandi-b04aa3339">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<a href="mailto:kamrunnisamadrakhandi@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
 </p>
 
----
-
-<div align="center">
-
-### ⭐ Code • Learn • Build • Repeat ⭐
+<img src="https://komarev.com/ghpvc/?username=kamrunnisa&style=for-the-badge&color=blue"/>
 
 </div>
+
+---
+
+# 💎 About Me
+
+```java
+public class Kamrunnisa {
+
+    String role = "Java Full Stack Developer";
+
+    String education = "Computer Science Graduate";
+
+    String location = "India";
+
+    String currentFocus = "Spring Boot, React, REST APIs";
+
+    String passion = "Building scalable web applications";
+
+}
+```
+
+---
+
+# 🚀 Currently Working On
+
+✔ Java Full Stack Development
+
+✔ Spring Boot
+
+✔ REST APIs
+
+✔ React.js
+
+✔ MySQL Database
+
+✔ Git & GitHub
+
+---
+
+# 🌟 Career Objective
+
+I enjoy building clean, scalable, and user-friendly web applications using Java technologies.
+My goal is to continuously improve my backend and frontend development skills while contributing to impactful software projects.
+
+---
