@@ -72,3 +72,183 @@ I enjoy building clean, scalable, and user-friendly web applications using Java 
 My goal is to continuously improve my backend and frontend development skills while contributing to impactful software projects.
 
 ---
+
+
+# 💻 Tech Stack
+
+<div align="center">
+
+### 🚀 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,html,css" />
+</p>
+
+### ⚡ Frameworks & Libraries
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring,react,bootstrap" />
+</p>
+
+### 🗄 Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+### 🛠 Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,maven" />
+</p>
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+## 🛍 StyleMart
+
+Modern Fashion E-Commerce Website
+
+✨ Features
+
+- Authentication
+- Product Catalog
+- Shopping Cart
+- Admin Dashboard
+- MySQL Database
+
+🛠 Tech
+
+Java • JSP • Servlet • MySQL
+
+</td>
+
+<td width="50%">
+
+## 🎓 LearnSphere
+
+AI Enabled Student Management System
+
+✨ Features
+
+- Attendance
+- Quiz
+- Notes
+- Analytics
+- Student Dashboard
+
+🛠 Tech
+
+Java • PHP • MySQL • Android
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 💼 Job Portal
+
+Online Recruitment System
+
+✨ Features
+
+- Job Posting
+- Resume Upload
+- Login System
+- Admin Panel
+
+🛠 Tech
+
+Java • JSP • MySQL
+
+</td>
+
+<td width="50%">
+
+## 📚 Student Management
+
+CRUD Based Application
+
+✨ Features
+
+- Add Student
+- Update
+- Delete
+- Search
+
+🛠 Tech
+
+Java • MySQL
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🌱 Currently Learning
+
+<div align="center">
+
+| 🚀 Technology | Progress |
+|---------------|----------|
+| Java | ██████████ 100% |
+| Spring Boot | ████████░░ 80% |
+| React | ███████░░░ 70% |
+| REST APIs | ████████░░ 80% |
+| Microservices | ████░░░░░░ 40% |
+| Docker | ███░░░░░░░ 30% |
+
+</div>
+
+---
+
+# 🏅 Certifications & Learning
+
+📘 Java Full Stack Development
+
+📘 REST API Development
+
+📘 Git & GitHub
+
+📘 SQL & MySQL
+
+📘 Spring Boot (Learning)
+
+---
+
+# 💼 What I Love
+
+✔ Building Real World Projects
+
+✔ Solving Programming Problems
+
+✔ Learning New Technologies
+
+✔ Backend Development
+
+✔ Open Source
+
+✔ Clean UI Design
+
+---
+
+<div align="center">
+
+## ⚡ "Great software is built one commit at a time."
+
+</div>
