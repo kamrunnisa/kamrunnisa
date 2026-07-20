@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Hi+I'm+Kamrunnisa+Madarakhandi;Java+Full+Stack+Developer;Computer+Science+Student;Learning+Spring+Boot+%26+React;Building+Real+World+Projects" />
+</p>
+
 # Hi 👋, I'm Kamrunnisa Madarakhandi
 
 💻 Computer Science Student
