@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi 👋, I'm Kamrunnisa Madarakhandi
 
-<!--
-**kamrunnisa/kamrunnisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Science Student
 
-Here are some ideas to get you started:
+🌱 Learning Java Full Stack Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Currently Building:
+- StyleMart - E-Commerce Website
+- LearnSphere
+- Job Portal
+
+## 🛠 Tech Stack
+
+- Java
+- Spring Boot
+- JSP & Servlets
+- MySQL
+- HTML
+- CSS
+- JavaScript
+- React
+- Git
+- GitHub
+
+## 📊 GitHub Stats
+
+![Kamrunnisa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kamrunnisa&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kamrunnisa&layout=compact&theme=tokyonight)
+
+## 🔥 Streak Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=kamrunnisa&theme=tokyonight)
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/kamrunnisa
+
+⭐ Thanks for visiting my profile!
