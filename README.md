@@ -1,43 +1,134 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Hi+I'm+Kamrunnisa+Madarakhandi;Java+Full+Stack+Developer;Computer+Science+Student;Learning+Spring+Boot+%26+React;Building+Real+World+Projects" />
+<div align="center">
+
+# 👋 Hi, I'm Kamrunnisa Madarakhandi
+
+### 💻 Java Full Stack Developer | Computer Science Student | Open Source Learner
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+%7C+REST+API;Building+Real+World+Projects;Always+Learning+New+Technologies" />
+
+<p>
+<img src="https://komarev.com/ghpvc/?username=kamrunnisa&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/kamrunnisa?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/github/stars/kamrunnisa?style=for-the-badge&logo=github"/>
 </p>
 
-# Hi 👋, I'm Kamrunnisa Madarakhandi
+</div>
 
-💻 Computer Science Student
+---
 
-🌱 Learning Java Full Stack Development
+# 👩‍💻 About Me
 
-🚀 Currently Building:
-- StyleMart - E-Commerce Website
-- LearnSphere
-- Job Portal
+🎓 Final Year Computer Science Student
 
-## 🛠 Tech Stack
+💻 Passionate Java Full Stack Developer
 
-- Java
+🚀 Building scalable Java Web Applications
+
+🌱 Currently Learning
+
 - Spring Boot
-- JSP & Servlets
-- MySQL
-- HTML
-- CSS
-- JavaScript
 - React
-- Git
-- GitHub
+- REST APIs
+- Microservices
 
-## 📊 GitHub Stats
+---
 
-![Kamrunnisa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kamrunnisa&show_icons=true&theme=tokyonight)
+# 🛠 Tech Stack
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kamrunnisa&layout=compact&theme=tokyonight)
+<p align="center">
 
-## 🔥 Streak Stats
+<img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,mysql,git,github,maven,vscode,postman"/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=kamrunnisa&theme=tokyonight)
+</p>
 
-## 📫 Connect With Me
+---
 
-- GitHub: https://github.com/kamrunnisa
+# 🚀 Featured Projects
 
-⭐ Thanks for visiting my profile!
+| Project | Description |
+|----------|-------------|
+| 🛍 StyleMart | Java Servlet + JSP E-Commerce Website |
+| 🎓 LearnSphere | AI Educational Management System |
+| 💼 Job Portal | Online Recruitment Portal |
+| 🤖 AI Dashboard | AI Powered CRM Dashboard |
+| 📚 Student Management | Java CRUD Application |
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kamrunnisa&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamrunnisa&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=kamrunnisa&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kamrunnisa&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=kamrunnisa&theme=tokyonight&no-frame=true&margin-w=10"/>
+
+</p>
+
+---
+
+# 🐍 Snake Contribution
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/kamrunnisa/kamrunnisa/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/kamrunnisa">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://linkedin.com">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ Code • Learn • Build • Repeat ⭐
+
+</div>
